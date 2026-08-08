@@ -38,7 +38,7 @@ My work tends to live at the boundaries between disciplines: turning an uncertai
 
 [KiCARR](https://github.com/Phoenixjack/KiCARR) is the planned umbrella for a cohesive KiCad library companion. Its component projects are deliberately recognizable today because each explores a different part of the eventual workflow:
 
-![KiCARR component ecosystem](docs/assets/kicarr-ecosystem.svg)
+![KiCARR component ecosystem](assets/kicarr-ecosystem.svg)
 
 - **KIA** handles cautious intake, naming, preview, and import planning.
 - **KMFDM** handles scanning, metadata editing, policies, audit findings, changes, and history.
