@@ -113,4 +113,4 @@ KiCARR is still at the planning/bootstrap stage. The diagram describes product d
 
 ## Resume
 
-A dedicated, full-featured resume subpage is planned. It will be implemented separately so the portfolio overview can stay readable while the resume can provide deeper role history, selected technical work, credentials, and print-friendly presentation.
+The [full public resume](resume/) includes role-family translations, complete experience from 1999 to the present, selected technical work, tools, credentials, and a print-friendly layout. Direct contact information, clearance details, and sensitive operational specifics are intentionally omitted from the public version.
