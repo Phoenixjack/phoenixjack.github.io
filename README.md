@@ -40,9 +40,9 @@ My work tends to live at the boundaries between disciplines: turning an uncertai
 
 ```mermaid
 flowchart LR
-    KIA["KIA<br/>Import and organize<br/>vendor assets"] --> KICARR["KiCARR<br/>Future cohesive<br/>desktop companion"]
-    KMFDM["KMFDM<br/>Audit, edit, and<br/>manage libraries"] --> KICARR
-    KML["KML<br/>Look up and preview<br/>component metadata"] --> KICARR
+    KIA["KIA <br/> Import and organize <br/> vendor assets"] --> KICARR["KiCARR <br/> Future cohesive <br/> desktop companion"]
+    KMFDM["KMFDM <br/> Audit, edit, and <br/> manage libraries"] --> KICARR
+    KML["KML <br/> Look up and preview <br/> component metadata"] --> KICARR
 
     classDef component fill:#eef6ff,stroke:#2f6f9f,color:#16324a,stroke-width:2px;
     classDef umbrella fill:#17324d,stroke:#0b1f33,color:#ffffff,stroke-width:3px;
@@ -74,4 +74,4 @@ I favor practical tools and prototypes that make risk visible early:
 - [Pan-Tilt Platform on GrabCAD](https://grabcad.com/library/pan-tilt-platform-2)
 - [Portfolio site](https://phoenixjack.github.io/)
 
-A dedicated full-resume page is planned for the site and will be developed separately.
+A full public resume is available at [phoenixjack.github.io/resume/](https://phoenixjack.github.io/resume/).
