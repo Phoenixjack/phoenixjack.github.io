@@ -1,0 +1,6 @@
+title: Chris McCreary's Projects
+description: Project homepage for Chris McCreary's open-source electronics and KiCad tooling work.
+theme: minima
+header_pages:
+  - projects.md
+  - privacy.md
